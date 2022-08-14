@@ -16,6 +16,6 @@ int main() {
 	        else{
 	            cout<<(n/3)+1<<endl;
 	        }
-	    }
+	     }
 	return 0;
 }
